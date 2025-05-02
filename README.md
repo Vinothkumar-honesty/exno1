@@ -300,4 +300,4 @@ print(df[z['weight']>3])
 
            
 # Result
-            Thus We have cleaned the data and removed the outliers by detection using IQR and Z-score
+   Thus We have cleaned the data and removed the outliers by detection using IQR and Z-score
